@@ -1,0 +1,16 @@
+wheel 
+streamlit
+python-dotenv
+ipykernel
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+langchain-text-splitters
+langsmith
+sentence-transformers
+huggingface-hub
+torch
+protobuf==3.20.*
